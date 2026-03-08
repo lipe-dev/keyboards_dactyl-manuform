@@ -1,3 +1,9 @@
+> **Personal fork:** This is a personal fork of [dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard) by joshreve, customized to my own preferences — key layout, thumb cluster, trackball support, OLED mount, and other tweaks.
+>
+> If you're interested in my actual build process, print settings, and hardware choices, check out my build log at [lipe.dev/dactyl-manuform](https://lipe.dev/dactyl-manuform).
+>
+> For documentation on the generator itself, refer to the [upstream repository](https://github.com/joshreve/dactyl-keyboard).
+
 # The Dactyl-ManuForm Keyboard - Python 3 - Cadquery
 This is a fork of [Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) by Tom Short, which itself is a fork of [Dactyl](https://github.com/adereth/dactyl-keyboard) by Matthew Adereth, a parameterized, split-hand, concave, columnar, ergonomic keyboard.
 
